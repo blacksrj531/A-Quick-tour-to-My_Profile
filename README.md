@@ -29,12 +29,12 @@
 
 ## 🧭 Navigation
 <div align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About_Me-2d333b?style=for-the-badge" /></a>
-  <a href="#-core-competencies"><img src="https://img.shields.io/badge/Core_Competencies-2d333b?style=for-the-badge" /></a>
-  <a href="#-work-experience"><img src="https://img.shields.io/badge/Work_Experience-2d333b?style=for-the-badge" /></a>
-  <a href="#-latest-works"><img src="https://img.shields.io/badge/Latest_Works-2d333b?style=for-the-badge" /></a>
-  <a href="#-education"><img src="https://img.shields.io/badge/Education-2d333b?style=for-the-badge" /></a>
-  <a href="#-contact"><img src="https://img.shields.io/badge/Contact-2d333b?style=for-the-badge" /></a>
+  <a href="#-about-me"><img src="https://github.com/blacksrj531/A-Quick-tour-to-My_Profile#-navigation" /></a>
+  <a href="#-core-competencies"><img src="https://github.com/blacksrj531/A-Quick-tour-to-My_Profile#-core-competencies--tech-stack" /></a>
+  <a href="#-work-experience"><img src="https://github.com/blacksrj531/A-Quick-tour-to-My_Profile#-work-experience" /></a>
+  <a href="#-latest-works"><img src="https://github.com/blacksrj531/A-Quick-tour-to-My_Profile#-latest-personal--freelance-works" /></a>
+  <a href="#-education"><img src="https://github.com/blacksrj531/A-Quick-tour-to-My_Profile#-education" /></a>
+  <a href="#-contact"><img src="https://github.com/blacksrj531/A-Quick-tour-to-My_Profile#-contact-me" /></a>
 </div>
 
 ---
