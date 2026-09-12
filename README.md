@@ -29,7 +29,7 @@
 
 ## 🧭 Navigation
 <div align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About_Me-2d333b?style=for-the-badge" /></a>
+  <a href="#-about-me"><img src="https://github.com/blacksrj531/A-Quick-tour-to-My_Profile/blob/main/README.md#%E2%80%8D%EF%B8%8F-about-me?style=for-the-badge" /></a>
   <a href="#-core-competencies"><img src="https://github.com/blacksrj531/A-Quick-tour-to-My_Profile#-core-competencies--tech-stack" /></a>
   <a href="#-work-experience"><img src="https://github.com/blacksrj531/A-Quick-tour-to-My_Profile#-work-experience" /></a>
   <a href="#-latest-works"><img src="https://github.com/blacksrj531/A-Quick-tour-to-My_Profile#-latest-personal--freelance-works" /></a>
