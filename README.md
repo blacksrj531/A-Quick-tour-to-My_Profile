@@ -5,7 +5,7 @@ Enhanced view!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ac4dffa,100:4d9cffff&height=200&section=header&text=Soumya%20Ranjan%20Jena&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
   
   <h3 align="center">
-    🤖 AI-Assisted Software Engineer · 🎨 UI/UX & Graphics Designer · 🧠 Advanced Prompt Engineer
+    🎨 UI/UX & Graphics Designer · 🧠 Advanced Prompt Engineer
   </h3>
   
   <a href="#">
