@@ -29,17 +29,17 @@
 
 ## 🧭 Navigation
 <div align="center">
-  
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About_Me-2d333b?style=for-the-badge" /></a>
-  <a href="#-core-competencies"><img src="https://img.shields.io/badge/Core_Competencies-2d333b?style=for-the-badge" /></a>
-  <a href="#-work-experience"><img src="https://img.shields.io/badge/Work_Experience-2d333b?style=for-the-badge" /></a>
-  <a href="#-latest-works"><img src="https://img.shields.io/badge/Latest_Works-2d333b?style=for-the-badge" /></a>
-  <a href="#-education"><img src="https://img.shields.io/badge/Education-2d333b?style=for-the-badge" /></a>
-  <a href="#-contact"><img src="https://img.shields.io/badge/Contact-2d333b?style=for-the-badge" /></a>
+  <a href="#about"><img src="https://img.shields.io/badge/About_Me-2d333b?style=for-the-badge" /></a>
+  <a href="#competencies"><img src="https://img.shields.io/badge/Core_Competencies-2d333b?style=for-the-badge" /></a>
+  <a href="#experience"><img src="https://img.shields.io/badge/Work_Experience-2d333b?style=for-the-badge" /></a>
+  <a href="#works"><img src="https://img.shields.io/badge/Latest_Works-2d333b?style=for-the-badge" /></a>
+  <a href="#education"><img src="https://img.shields.io/badge/Education-2d333b?style=for-the-badge" /></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/Contact-2d333b?style=for-the-badge" /></a>
 </div>
 
 ---
 
+<a name="about"></a>
 ## 🙋‍♂️ About Me
 
 > *"I am passionate about the intersection of design evolution and emerging technology, eager to solve complex challenges and drive innovation through exceptional user experiences."*
@@ -50,10 +50,11 @@ By combining traditional engineering with advanced AI tools, I significantly acc
 
 Beyond core design and development, I specialize in **AI-driven Supply Chain optimization** and **Advanced AI Research**, utilizing cutting-edge tools to streamline operations, identify app flaws, implement advanced workarounds, and integrate data-driven insights into the product lifecycle.
 
-**🗣️ Languages:** 🇬🇧 English *(Professional)* | 🇮🇳 हिन्दी *(Native)* | 🇮🇳 ଓଡ଼ିଆ *(Native)*
+**️ Languages:** 🇬🇧 English *(Professional)* | 🇮🇳 हिन्दी *(Native)* | 🇮🇳 ଓଡ଼ିଆ *(Native)*
 
 ---
 
+<a name="competencies"></a>
 ## 🧠 Core Competencies & Tech Stack
 
 <table>
@@ -106,16 +107,19 @@ Beyond core design and development, I specialize in **AI-driven Supply Chain opt
 
 ---
 
+<a name="experience"></a>
 ## 💼 Work Experience
 
 <table>
   <tr>
     <td width="70%">
-      <h4>🎨 Graphic Designer & User Researcher</h4>
+      <h4> Graphic Designer & User Researcher</h4>
       <p><b>kiddale123</b> • Apr 2025 – Jan 2026</p>
       <ul>
-        <li>Conducted user research (surveys + interviews), increasing post-launch engagement by <b>22%</b>.</li>
-        <li>Led user testing with 30+ participants, successfully reducing bounce rate by <b>15%</b>.</li>
+        <li>Led design of 50+ book assets (musical + non-musical) — <b>45% revenue growth</b> in 3 months.</li>
+        <li>Digital brand makeover (social, web, book fairs) — <b>22% engagement boost</b>, <b>100K+ reach</b>.</li>
+        <li>AI image generation → <b>30% faster iterations</b>, <b>15% less designer workload</b>.</li>
+        <li>User research (surveys + interviews) — increased engagement by <b>22% post-launch</b>.</li>
       </ul>
     </td>
     <td width="30%" align="center">
@@ -127,9 +131,9 @@ Beyond core design and development, I specialize in **AI-driven Supply Chain opt
       <h4>💻 User Interface Designer</h4>
       <p><b>Ancients Craft</b> • Nov 2024 – Apr 2025</p>
       <ul>
-        <li>Led design of 50+ book assets (musical + non-musical), driving a <b>45% revenue growth</b> in 3 months.</li>
-        <li>Executed digital brand makeovers (social, web, book fairs), boosting engagement by <b>22%</b> and reaching <b>100K+</b> users.</li>
-        <li>Integrated AI image generation, resulting in <b>30% faster iterations</b> and <b>15% less</b> designer workload.</li>
+        <li>Figma responsive interfaces — <b>reduced design-to-dev handoff by 25%</b>.</li>
+        <li>AI prompt-based layout suggestions → <b>team output +20%</b> across 10+ clients.</li>
+        <li>User testing (30+ participants) — <b>reduced bounce rate by 15%</b>.</li>
       </ul>
     </td>
     <td width="30%" align="center">
@@ -138,41 +142,29 @@ Beyond core design and development, I specialize in **AI-driven Supply Chain opt
   </tr>
   <tr>
     <td width="70%">
-      <h4>🚀 UI/UX Designer cum Graphics Designer</h4>
+      <h4> UI/UX Designer cum Graphics Designer</h4>
       <p><b>Utkrisht Digital Pvt Ltd</b> • Sep 2023 – Oct 2024</p>
       <ul>
-        <li>Built reusable Figma design systems and collaborated with developers for pixel-perfect implementation.</li>
-        <li>Designed responsive interfaces in Figma, reducing design-to-dev handoff time by <b>25%</b>.</li>
+        <li>Brand identities (logos, palettes, typography) for <b>15+ clients</b> using Adobe Creative Suite.</li>
+        <li>Managed <b>5-7 clients simultaneously</b> — tailored solutions for brand growth.</li>
+        <li>Built reusable Figma design systems; collaborated with devs for <b>pixel-perfect implementation</b>.</li>
       </ul>
     </td>
     <td width="30%" align="center">
       <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Coding"/>
     </td>
   </tr>
-  <tr>
-    <td width="70%">
-      <h4>🌟 Freelance Designer & AI Prompt Engineer</h4>
-      <p><b>Self-Employed</b> • Ongoing</p>
-      <ul>
-        <li>Managed 5-7 clients simultaneously, delivering tailored brand growth solutions.</li>
-        <li>Created complete brand identities (logos, palettes, typography) for <b>15+ clients</b> using Adobe Creative Suite.</li>
-        <li>Implemented AI prompt-based layout suggestions, increasing team output by <b>20%</b> across 10+ clients.</li>
-      </ul>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Freelance"/>
-    </td>
-  </tr>
 </table>
 
 ---
 
-## 🚀 Latest Personal & Freelance Works
+<a name="works"></a>
+##  Latest Personal & Freelance Works
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Nexora (B2B SaaS Platform)</h3>
+      <h3> Nexora (B2B SaaS Platform)</h3>
       <b>AI Integration | Workflow Automation | UI/UX</b><br>
       AI-powered B2B SaaS platform that connects tools and eliminates repetitive manual tasks.<br>
       <a href="https://blacksrj531.github.io/SaaS_Product_Demo/">🔗 View Live Demo</a>
@@ -189,7 +181,7 @@ Beyond core design and development, I specialize in **AI-driven Supply Chain opt
       <h3>🏛️ Galaxy Interiors</h3>
       <b>Architecture | Interior Design | Responsive</b><br>
       Premium multi-page site showcasing services, before/after case studies, testimonials, and stats with a cosmic aesthetic.<br>
-      <a href="https://blacksrj531.github.io/Galaxy__Interiors/">🔗 View Live Site</a>
+      <a href="https://blacksrj531.github.io/Galaxy__Interiors/"> View Live Site</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎵 Zuneify Media Player</h3>
@@ -216,6 +208,7 @@ Beyond core design and development, I specialize in **AI-driven Supply Chain opt
 
 ---
 
+<a name="education"></a>
 ## 🎓 Education
 
 * 🎓 **B.Tech in Computer Science** (2020 – 2023)  
@@ -233,6 +226,7 @@ Beyond core design and development, I specialize in **AI-driven Supply Chain opt
 
 ---
 
+<a name="contact"></a>
 ## 📬 Contact Me
 
 <div align="center">
