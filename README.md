@@ -22,9 +22,9 @@ Enhanced view!
 
   <br/>
   
-  [![Hire Me](https://img.shields.io/badge/📩_Hire_Me-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
+  [![Hire Me](https://img.shields.io/badge/📩_Hire_Me-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenasoumyaranjan531@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenasoumyaranjan531/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://blacksrj531.github.io/my_portfolio_531/)
   [![Behance/Dribbble](https://img.shields.io/badge/Design_Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](YOUR_DESIGN_PORTFOLIO_URL)
 </div>
 
